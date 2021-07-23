@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  Default error message/pr!
+  - Default error message/pr!
 
 # Or an array:
 # requestInfoReplyComment:
